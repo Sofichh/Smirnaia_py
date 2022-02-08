@@ -1,0 +1,5 @@
+print('Город вылета:')
+departure_city = input()
+print('Город прилета:')
+arrival_city = input()
+print(departure_city,'-',arrival_city)
